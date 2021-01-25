@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://trananhpm94.github.io/3d-model-build/static/css/main.c35fe230.chunk.css",
+    "main.js": "https://trananhpm94.github.io/3d-model-build/static/js/main.3517d86d.chunk.js",
+    "main.js.map": "https://trananhpm94.github.io/3d-model-build/static/js/main.3517d86d.chunk.js.map",
+    "runtime-main.js": "https://trananhpm94.github.io/3d-model-build/static/js/runtime-main.246c01bc.js",
+    "runtime-main.js.map": "https://trananhpm94.github.io/3d-model-build/static/js/runtime-main.246c01bc.js.map",
+    "static/css/2.b72b1a0e.chunk.css": "https://trananhpm94.github.io/3d-model-build/static/css/2.b72b1a0e.chunk.css",
+    "static/js/2.5f48a90b.chunk.js": "https://trananhpm94.github.io/3d-model-build/static/js/2.5f48a90b.chunk.js",
+    "static/js/2.5f48a90b.chunk.js.map": "https://trananhpm94.github.io/3d-model-build/static/js/2.5f48a90b.chunk.js.map",
+    "static/js/3.ad8a8609.chunk.js": "https://trananhpm94.github.io/3d-model-build/static/js/3.ad8a8609.chunk.js",
+    "static/js/3.ad8a8609.chunk.js.map": "https://trananhpm94.github.io/3d-model-build/static/js/3.ad8a8609.chunk.js.map",
+    "index.html": "https://trananhpm94.github.io/3d-model-build/index.html",
+    "static/css/2.b72b1a0e.chunk.css.map": "https://trananhpm94.github.io/3d-model-build/static/css/2.b72b1a0e.chunk.css.map",
+    "static/css/main.c35fe230.chunk.css.map": "https://trananhpm94.github.io/3d-model-build/static/css/main.c35fe230.chunk.css.map",
+    "static/js/2.5f48a90b.chunk.js.LICENSE.txt": "https://trananhpm94.github.io/3d-model-build/static/js/2.5f48a90b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.246c01bc.js",
+    "static/css/2.b72b1a0e.chunk.css",
+    "static/js/2.5f48a90b.chunk.js",
+    "static/css/main.c35fe230.chunk.css",
+    "static/js/main.3517d86d.chunk.js"
+  ]
+}

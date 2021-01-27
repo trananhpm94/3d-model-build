@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "https://trananhpm94.github.io/3d-model-build/static/css/main.c35fe230.chunk.css",
-    "main.js": "https://trananhpm94.github.io/3d-model-build/static/js/main.c7b3e516.chunk.js",
-    "main.js.map": "https://trananhpm94.github.io/3d-model-build/static/js/main.c7b3e516.chunk.js.map",
+    "main.js": "https://trananhpm94.github.io/3d-model-build/static/js/main.6dea52ce.chunk.js",
+    "main.js.map": "https://trananhpm94.github.io/3d-model-build/static/js/main.6dea52ce.chunk.js.map",
     "runtime-main.js": "https://trananhpm94.github.io/3d-model-build/static/js/runtime-main.d56b5d94.js",
     "runtime-main.js.map": "https://trananhpm94.github.io/3d-model-build/static/js/runtime-main.d56b5d94.js.map",
     "static/css/2.b72b1a0e.chunk.css": "https://trananhpm94.github.io/3d-model-build/static/css/2.b72b1a0e.chunk.css",
-    "static/js/2.f84b7480.chunk.js": "https://trananhpm94.github.io/3d-model-build/static/js/2.f84b7480.chunk.js",
-    "static/js/2.f84b7480.chunk.js.map": "https://trananhpm94.github.io/3d-model-build/static/js/2.f84b7480.chunk.js.map",
+    "static/js/2.b22351aa.chunk.js": "https://trananhpm94.github.io/3d-model-build/static/js/2.b22351aa.chunk.js",
+    "static/js/2.b22351aa.chunk.js.map": "https://trananhpm94.github.io/3d-model-build/static/js/2.b22351aa.chunk.js.map",
     "static/js/3.7799da3f.chunk.js": "https://trananhpm94.github.io/3d-model-build/static/js/3.7799da3f.chunk.js",
     "static/js/3.7799da3f.chunk.js.map": "https://trananhpm94.github.io/3d-model-build/static/js/3.7799da3f.chunk.js.map",
     "index.html": "https://trananhpm94.github.io/3d-model-build/index.html",
     "static/css/2.b72b1a0e.chunk.css.map": "https://trananhpm94.github.io/3d-model-build/static/css/2.b72b1a0e.chunk.css.map",
     "static/css/main.c35fe230.chunk.css.map": "https://trananhpm94.github.io/3d-model-build/static/css/main.c35fe230.chunk.css.map",
-    "static/js/2.f84b7480.chunk.js.LICENSE.txt": "https://trananhpm94.github.io/3d-model-build/static/js/2.f84b7480.chunk.js.LICENSE.txt"
+    "static/js/2.b22351aa.chunk.js.LICENSE.txt": "https://trananhpm94.github.io/3d-model-build/static/js/2.b22351aa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d56b5d94.js",
     "static/css/2.b72b1a0e.chunk.css",
-    "static/js/2.f84b7480.chunk.js",
+    "static/js/2.b22351aa.chunk.js",
     "static/css/main.c35fe230.chunk.css",
-    "static/js/main.c7b3e516.chunk.js"
+    "static/js/main.6dea52ce.chunk.js"
   ]
 }
